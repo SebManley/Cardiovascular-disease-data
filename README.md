@@ -7,4 +7,4 @@
 ## Data visualisation:
 
 ## Data Source:
-The parquet file containing the questionnaire responses was acquired from https://github.com/kamilpytlak who extracted it directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
+The parquet file containing the questionnaire responses was acquired from https://github.com/kamilpytlak who extracted the raw data directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
