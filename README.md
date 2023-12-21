@@ -19,4 +19,4 @@ The parquet file was acquired from https://github.com/kamilpytlak who extracted 
 * Matplotlib
 * Chardet
 
-Note: If using the Heart_disease Notebook locally, change any file paths to match the actual file path.
+**Note: If using the Heart_disease_data Notebook locally, change any file paths to match the actual file path.**
