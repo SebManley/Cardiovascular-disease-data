@@ -14,15 +14,15 @@ This project focused on processing and visualising the data obtained from the Ce
 ## Data visualisation:
 The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures each of which provide unique insights:
 
-**Figure 1:** 
+* **Figure 1:** 
 
-**Figure 2:**
+* **Figure 2:**
 
-**Figure 3:**
+* **Figure 3:**
 
-**Figure 4:**
+* **Figure 4:**
 
-**Figure 5:**
+* **Figure 5:**
 
 ## Data Source:
 The parquet file was acquired from https://github.com/kamilpytlak who extracted the raw questionnaire response data directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
