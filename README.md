@@ -6,8 +6,23 @@ This project focused on processing and visualising the data obtained from the Ce
 **Project goal:** To process the BRFSS data to a human-readable format and draw insights using visualisations to help understand the lifestyle factors that drive cardiovascular risk.
 
 ## Data Cleaning and Processing:
+* Read the parquet file containing questionnaire responses into a Pandas dataframe.
+* Focused the dataframe by creating a CSV file containing the desired SAS column name and using it to select 42 out of the 326 columns  - leaving only the columns that provide the most information in achieving the project goal.
+* Increased the readability of the columns by creating a list of informative column labels to replace the corresponding SAS column names.
+* Increased the interpretation of the data by converting numerical values into descriptive values.
 
 ## Data visualisation:
+The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures each of which provide unique insights:
+
+**Figure 1:** 
+
+**Figure 2:**
+
+**Figure 3:**
+
+**Figure 4:**
+
+**Figure 5:**
 
 ## Data Source:
 The parquet file was acquired from https://github.com/kamilpytlak who extracted the raw questionnaire response data directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
