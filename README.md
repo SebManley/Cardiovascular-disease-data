@@ -12,7 +12,7 @@ This project focused on processing and visualising the data obtained from the Ce
 * Increased the interpretation of the data by converting numerical values into descriptive values.
 
 ## Data visualisation:
-The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures each of which provide unique insights:
+The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures, each of which provide unique insights:
 
 * **Figure 1:** 
 
