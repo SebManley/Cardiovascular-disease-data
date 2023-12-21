@@ -1,4 +1,4 @@
-# Cardiovascular disease data (2022) ![Beating heart animation](<iframe src="https://giphy.com/embed/26BRv0ThflsHCqDrG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/heart-teamo-team-o-26BRv0ThflsHCqDrG">via GIPHY</a></p>)
+# Cardiovascular disease data (2022) ![Beating heart animation](https://media0.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif?cid=ecf05e4781lacu8c51zi2phdvpeb4k7rehqa3b3x0vxktuxe&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Project Overview:
 This project focused on processing and visualising the data obtained from the Centers for Disease Control and Prevention's 2022 Behavioral Risk Factor Surveillance System (BRFSS) questionnaire performed in all of the states and territories of the United States of America. The questionnaire surveryed 445,000 American citizens on health-related questions, inlcuding health risk behaviors, chronic diseases and conditions, access to health care, and use of preventive health services.
