@@ -9,6 +9,7 @@ This project focused on processing and visualising the data obtained from the Ce
 * Read the parquet file containing questionnaire responses into a Pandas dataframe.
 * Focused the dataframe by creating a CSV file containing the desired SAS column name and using it to select 42 out of the 326 columns  - leaving only the columns that provide the most information in achieving the project goal.
 * Created a list of informative column labels to replace the corresponding SAS column names to increase the readability of the columns.
+* Removed rows that are missing data on cardiovascular disease.
 * Converted numerical values into descriptive values to increase the interpretation of the data.
 
 ## Data visualisation:
