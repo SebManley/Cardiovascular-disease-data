@@ -12,7 +12,7 @@ This project focused on processing and visualising the data obtained from the Ce
 * Converted numerical values into descriptive values to increase the interpretation of the data.
 
 ## Data visualisation:
-The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures, each of which provide unique insights. The metrics used as indicators of cardiovascular disease include 'Had Heart Attack', 'Had Coronary Artery Disease or Myocardial Infarction' and 'Had Angina or Coronary Heart Disease' as these are the most prevalent cardiovascular diseases manifestations (Roth et al., 2020).
+The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures, each of which provide unique insights. The metrics used as indicators of cardiovascular disease include 'Had Heart Attack', 'Had Coronary Artery Disease or Myocardial Infarction' and 'Had Angina or Coronary Heart Disease' as these are the most prevalent cardiovascular disease manifestations (Roth et al., 2020).
 
 * **Figure 1:** 
 
