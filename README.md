@@ -25,7 +25,7 @@ The primary goal of this project was to help understand the lifestyle factors th
 
 * **Figure 5:** Relationship between BMI and Cardiovascular Disease Risk.
 
-* **Figure 6:** Leading Five U.S. States in Cardiovascular Event Frequency:
+* **Figure 6:** Leading Five U.S. States in Cardiovascular Event Frequency.
 
 ## Data Source:
 The parquet file was acquired from https://github.com/kamilpytlak who extracted the raw questionnaire response data directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
