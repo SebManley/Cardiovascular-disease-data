@@ -13,17 +13,19 @@ This project focused on processing and visualising the data obtained from the Ce
 * Converted numerical values into descriptive values to increase the interpretation of the data.
 
 ## Data visualisation:
-The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 5 figures, each of which provide unique insights. The metrics used as indicators of cardiovascular disease include 'Had Heart Attack', 'Had Coronary Artery Disease or Myocardial Infarction' and 'Had Angina or Coronary Heart Disease' as these are the most prevalent cardiovascular disease manifestations (Roth et al., 2020).
+The primary goal of this project was to help understand the lifestyle factors that influence cardiovascular disease risk in modern day America. This has been achieved through the creation of 6 figures, each of which provide unique insights. The primary metric used as an indicator of cardiovascular disease was the calculated variable 'Had Coronary Artery Disease or Myocardial Infarction' as these events are the most prevalent cardiovascular disease manifestations (Roth et al., 2020).
 
-* **Figure 1:** 
+* **Figure 1:** Relationship between age and cardiovascular disease risk.
 
-* **Figure 2:**
+* **Figure 2:** Relationship between smoking and cardiovascular disease risk.
 
-* **Figure 3:**
+* **Figure 3:** Relationship between sex and cardiovascular disease risk.
 
-* **Figure 4:**
+* **Figure 4:** Relationship between exercise and cardiovascular Risk.
 
-* **Figure 5:**
+* **Figure 5:** Relationship between BMI and cardiovascular disease risk.
+
+* **Figure 6:** Top 5 American states with the highest number of cardiovascular events:
 
 ## Data Source:
 The parquet file was acquired from https://github.com/kamilpytlak who extracted the raw questionnaire response data directly from https://www.cdc.gov/brfss/annual_data/annual_2022.html
